@@ -1,6 +1,6 @@
 .env
 sql_app.db
-venv
+.venv
 **/__pycache__/**
 settings.json
 test.db
